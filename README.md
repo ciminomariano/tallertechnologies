@@ -113,13 +113,3 @@ The feed displays:
 
 Payment transactions: "{payer} paid {recipient} ${amount} for {description}"
 Friend additions: "{user} added {friend} as a friend"
-
-License
-MIT License
-Contributing
-
-Fork the repository
-Create a feature branch: git checkout -b feature/new-feature
-Commit your changes: git commit -m 'Add new feature'
-Push to the branch: git push origin feature/new-feature
-Submit a pull request
