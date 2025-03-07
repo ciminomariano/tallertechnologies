@@ -41,7 +41,7 @@ User: Contains methods for payments and friend management
 Installation
 
 Clone the repository:
-Copygit clone https://github.com/yourusername/mini-venmo.git
+Copygit clone [https://github.com/yourusername/mini-venmo.git](https://github.com/ciminomariano/tallertechnologies/tree/main)
 cd mini-venmo
 
 Create a virtual environment and activate it:
